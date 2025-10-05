@@ -4,9 +4,8 @@ A complete data science project demonstrating the cleaning, preprocessing, and f
 This repository documents the end-to-end data cleaning and preprocessing of the IMDb movie dataset. The primary goal of this project was to take a raw, real-world dataset and transform it into a fully numeric, clean, and structured format suitable for building predictive machine learning models.
 
 Project Links
-View the LinkedIn Post: [PASTE THE LINK TO YOUR LINKEDIN POST HERE]
+[git clone https://lnkd.in/eSuarE-J]
 
-Explore the Jupyter Notebook: [PASTE THE LINK TO YOUR GITHUB JUPYTER NOTEBOOK FILE HERE]
 
 Project Overview
 Real-world data is often messy, inconsistent, and contains missing values. Before any meaningful analysis or modeling can be done, the data must be rigorously cleaned. This project walks through the essential steps of inspecting, cleaning, and transforming the data, demonstrating key skills in data wrangling and feature engineering.
